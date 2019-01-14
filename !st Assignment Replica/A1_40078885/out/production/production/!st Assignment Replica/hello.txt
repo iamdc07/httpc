@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: 2018-11-28T04:01:05.791
+Server: Dc/1.0
+Content-Length: 84
+Content-Type: text/plain-text
+
+{"Application":1}&{"myhouse":2}
