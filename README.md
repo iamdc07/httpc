@@ -1,4 +1,4 @@
-# httpc an HTTP library and httpfs is a file server
+# httpc an HTTP library and httpfs a file server
 httpc is an client side library implemented using TCP Socket programming using HTTP as the communication protocol. It is a curl/telnet like HTTP
 library used to demonstrate GET, POST & HEAD functionalities(HTTP). 
 
